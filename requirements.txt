@@ -1,0 +1,10 @@
+streamlit
+earthengine-api
+requests
+numpy
+pandas
+torch
+segmentation-models-pytorch==0.6.0
+rasterio
+pyproj
+matplotlib
