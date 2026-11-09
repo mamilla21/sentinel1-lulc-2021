@@ -112,8 +112,8 @@ The Heidelberg 2021 case study produced 12 predicted LULC maps with monthly clas
 | :---- | :---- |
 | Public dataset (training and urban patches, geographic split metadata) | [**https\://drive.google.com/drive/folders/1DbFdSLy43HouXBdLBTJBqH5rzDQm-UJy?usp=sharing**](https://drive.google.com/drive/folders/1DbFdSLy43HouXBdLBTJBqH5rzDQm-UJy?usp=sharing)&nbsp;&nbsp; |
 | Model weights (`unet_sentinel1_finetune_best.pth`) | [**https\://drive.google.com/file/d/1An-uf-vOIE86nWj0z59S5c4DkwqjLvbh/view?usp=sharing**](https://drive.google.com/file/d/1An-uf-vOIE86nWj0z59S5c4DkwqjLvbh/view?usp=sharing)&nbsp; |
-| Executed training/evaluation/prediction notebooks  |
-| Streamlit prototype source code  |
+| Executed training/evaluation/prediction notebooks  | https://github.com/mamilla21/sentinel1-lulc-2021/tree/main/notebook|
+| Streamlit prototype source code  |   https://github.com/mamilla21/sentinel1-lulc-2021/blob/main/app_2021_full.py |
 
 Test every public link in a private/incognito browser window. Do not upload credentials, access tokens, service account keys, or private Drive material to a public repository.
 
